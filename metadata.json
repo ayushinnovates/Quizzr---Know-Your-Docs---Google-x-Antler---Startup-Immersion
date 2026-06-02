@@ -1,0 +1,6 @@
+{
+  "name": "Quizzr",
+  "description": "An AI-powered document-based quiz generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
